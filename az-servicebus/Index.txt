@@ -1,0 +1,6 @@
+1. Create a service bus account in Azure Portal.
+2. Create a service bus topic
+3. Create subscription
+4. Create access key
+5. Input the access key, service bus topic name and subscription
+6. Check the active messages list.
